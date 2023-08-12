@@ -9,7 +9,7 @@
 I'm Ian, a Software QA working remotely for Genesis biotechnology group and Devvpro LLC. I've spent my past 9 years doing QA across different types of applications, I also did technical support and customer service for a few VPN companies. Outside work I mostly spend my time on learning new stuff and the latest technology trends like crypto and AI.
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1ga_rPku7T0BPkNp_RrDaiKX5-HjmnVmt/view?usp=sharing).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/15ONVZPZsu_YgcomPTS85c7lurgj_z01f/view?usp=sharing).
 
 ## Skills
 
